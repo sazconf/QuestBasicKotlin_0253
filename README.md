@@ -16,9 +16,9 @@ Conditional expressions & Loops
 
 
 Functions & Lambda expressions
-<img width="1917" height="1017" alt="image" src="https://github.com/user-attachments/assets/8bfe5b96-3788-4fce-8df2-55c2f0475745" />
-<img width="1917" height="1020" alt="image" src="https://github.com/user-attachments/assets/58065e93-3506-4b1c-903c-4ca2628a5b0e" />
+<img width="1919" height="1009" alt="image" src="https://github.com/user-attachments/assets/3a602083-31c8-4e52-95df-f0e61943670c" />
+
 
 Class & Data classes
-<img width="1917" height="935" alt="image" src="https://github.com/user-attachments/assets/6798ad46-4123-4661-b14d-ce0286e0f620" />
-<img width="1916" height="966" alt="image" src="https://github.com/user-attachments/assets/e098101f-2191-46c6-bfe8-84372ca75a35" />
+<img width="1919" height="1013" alt="image" src="https://github.com/user-attachments/assets/1c8bfdf8-da04-44c9-ac5d-135ca721c5f1" />
+
