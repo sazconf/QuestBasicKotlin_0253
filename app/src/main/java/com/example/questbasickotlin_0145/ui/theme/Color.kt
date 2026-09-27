@@ -2,10 +2,12 @@ package com.example.questbasickotlin_0145.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
-val Purple80 = Color(0xFFD0BCFF)
-val PurpleGrey80 = Color(0xFFCCC2DC)
-val Pink80 = Color(0xFFEFB8C8)
+// Light Color Palette
+val SlatePrimary = Color(0xFF1E3A8A)
+val SlateSecondary = Color(0xFF0D9488)
+val SlateTertiary = Color(0xFF0F766E)
 
-val Purple40 = Color(0xFF6650a4)
-val PurpleGrey40 = Color(0xFF625b71)
-val Pink40 = Color(0xFF7D5260)
+// Dark Color Palette
+val SlatePrimaryDark = Color(0xFF93C5FD)
+val SlateSecondaryDark = Color(0xFF5EEAD4)
+val SlateTertiaryDark = Color(0xFF2DD4BF)
